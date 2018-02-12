@@ -1,0 +1,30 @@
+*{
+	box-sizing: border-box;
+}
+
+#container {
+	display: inline-block;	
+} 
+
+a {
+	text-decoration: none;
+	font-size: 20px;
+	font-family: 'Avenir';
+	color: #333;
+}
+
+#greeny {
+	color: #66CC99;
+
+}
+
+ul {
+	list-style-type: none;
+} 
+
+li {
+	padding: 15px;
+	padding-right: 90px;
+	border: 1px solid #BBB;
+	margin-bottom: -1px
+}

@@ -1,0 +1,52 @@
+*{
+	box-sizing: border-box;
+	width: 1400px;
+}
+
+body {
+	background-color: #EEE;
+}
+
+.header {
+	margin-left: 25px;
+}
+
+.column {
+	float: left;
+	width: 50%;
+}
+
+img {
+	width: 100px;
+}
+
+.block1 {
+	width: 600px;
+	margin: 0 20px;
+	padding-left: 50px;
+	padding-top: 35px;
+	border: 1px solid #AAA;
+	background-color: white;
+}
+
+hr {
+	width: 500px;
+	color: #CCC;
+	position: relative;
+	left: -22px;
+}
+
+.flex {
+	display: flex;
+	flex-direction: row;
+	padding: 0 auto;
+}
+.flex em {
+	display: inline;
+}
+
+.right {
+	text-align: right;
+	display: flex;
+	flex-direction: row;
+}

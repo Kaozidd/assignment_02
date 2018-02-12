@@ -1,0 +1,35 @@
+*{
+	box-sizing: border-box;
+	width: 600px;
+	position: relative;
+	font-size: 24px;
+}
+
+h1 {
+	font-family: Georgia, Palatino, serif;
+	font-size: 50px;
+	color: #222;
+}
+
+.monotype {
+	background-color: #222;
+	color: white;
+	text-transform: bold;
+}
+
+a {
+	text-decoration: none;
+	color: #77A8D2;
+}
+
+p {
+	font-family: Georgia, Palatino, serif;
+	color: #222;
+}
+
+.flier {
+	margin-left: 100px;
+	background-color: #FBF9F1;
+	padding: 50px;
+	width: 700px;
+}
